@@ -2,7 +2,7 @@
 
 
 <br>
-<h3 align="center">🦢develop experience</h3>
+<h3 align="center">🦢Develop experience</h3>
 <div align="center">
 2022 03 ~ ing..
 </div><br>
