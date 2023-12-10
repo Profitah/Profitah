@@ -2,11 +2,6 @@
 
 
 <br>
-<h3 align="center">🦢Develop experience</h3>
-<div align="center">
-2022 03 ~ ing..
-</div><br>
-
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
 frontend developer
