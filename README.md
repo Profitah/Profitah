@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)
 
 
-<h3>🦢develop experience</h3>
+<br>
+<h3 align="center">🦢develop experience</h3>
 <div align="center">
 2022 03 ~ ing..
 </div><br>
