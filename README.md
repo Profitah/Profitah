@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)
-
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newenwby_yuna)](https://solved.ac/newenwby_yuna/)
 <br>
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
@@ -26,9 +25,7 @@ frontend developer
   <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-
 </div><br>
-
 <h3 align="center">📞 Contact 📞</h3>
 <div style="display:flex; flex-direction:row;" align="center">
     <a href="https://www.instagram.com/meo.yoonah/">
@@ -38,4 +35,4 @@ frontend developer
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div><br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newenwby_yuna)](https://solved.ac/newenwby_yuna/)
+
