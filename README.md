@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yoonah's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <h3>🦢develop experience</h3>
+<div align="center">
 2022 03 ~ ing..
+</div>
 
 <h3>🤗Job Objectives</h3>
+<div align="center">
 frontend developer
+</div>
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
