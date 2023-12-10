@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newnewby_yuna)](https://solved.ac/newenwby_yuna/)
-
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br>
+<div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newenwby_yuna)](https://solved.ac/newenwby_yuna/)
+</div>
 <br>
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
