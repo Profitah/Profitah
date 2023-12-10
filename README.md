@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newenwby_yuna)](https://solved.ac/newenwby_yuna/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newenewby_yuna)](https://solved.ac/newenwby_yuna/)
+
 <br>
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
