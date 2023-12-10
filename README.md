@@ -1,4 +1,10 @@
-### Hello World! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Yoonah's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+<h3>🦢develop experience</h3>
+2022 03 ~ ing..
+
+<h3>🤗Job Objectives</h3>
+frontend developer
 
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
@@ -20,3 +26,13 @@
   <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
+
+<h3 align="center">📞 Contact 📞</h3>
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/meo.yoonah/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="skhu202012164@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
