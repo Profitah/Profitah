@@ -1,9 +1,9 @@
 <div align="center">     
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br>
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br><br><br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newnewby_yuna)](https://solved.ac/newnewby_yuna/)
 </div>
-<br><br><br>
+<br>
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
 frontend developer
