@@ -24,7 +24,7 @@ frontend developer
 
 <h3 align="center">📞 Contact 📞</h3>
 <div style="display:flex; flex-direction:row;" align="center">
-    <a href="https://www.instagram.com/meo.yoonah/">
+    <a href="https://www.instagram.com/z1zon.yoonah/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
     <a href="mailto:skhu202012164@gmail.com">
