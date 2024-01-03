@@ -6,7 +6,7 @@
 <br>
 <h3 align="center">🤗Job Objectives</h3>
 <div align="center">
-frontend developer or python backend developer
+frontend developer
 </div><br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
