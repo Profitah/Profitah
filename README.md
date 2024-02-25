@@ -4,9 +4,9 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newnewby_yuna)](https://solved.ac/newnewby_yuna/)
 </div>
 <br>
-<h3 align="center">🤗Job Objectives</h3>
+<h3 align="center">🤗career</h3>
 <div align="center">
-frontend developer
+어둠의 회대 아싸모임 회장 2022 ~ ing
 </div><br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
