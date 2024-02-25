@@ -6,7 +6,7 @@
 <br>
 <h3 align="center">🤗career</h3>
 <div align="center">
-어둠의 회대아싸모임 회장 2022 ~ ing
+뒷골목 회대아싸친목회 회장 2022 ~ ing
 </div><br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
