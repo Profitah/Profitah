@@ -4,10 +4,6 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newnewby_yuna)](https://solved.ac/newnewby_yuna/)
 </div>
 <br>
-<h3 align="center">🤗career</h3>
-<div align="center">
-뒷골목 회대아싸친목회 회장 2022 ~ ing
-</div><br>
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
