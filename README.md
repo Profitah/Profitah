@@ -24,15 +24,12 @@
 <h3 align="center">📞 Contact 📞</h3>
 
 <div align="center">
-    본계<br>
     <a href="https://www.instagram.com/jaddeit__/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    부계<br>
     <a href="https://www.instagram.com/tomorrow_it.book.editor/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    메일 <br>
     <a href="mailto:skhu202012164@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
     </a>
