@@ -25,7 +25,7 @@
 
 <div align="center">
     <a href="https://www.instagram.com/jaddeit__/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-030303?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://www.instagram.com/tomorrow_it.book.editor/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
