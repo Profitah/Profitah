@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<h3 align="center"> My Friends ❤️</h3>
+<h3 align="center"> ❤️ My Friends ❤️</h3>
 <div align="center">
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/{Profitah}" alt="My cute pet"/>
