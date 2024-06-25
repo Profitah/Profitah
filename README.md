@@ -30,7 +30,7 @@
 </div>
 <br>
 
-<h3> MY cute pet ❤️ </h3>
+<h3 align="center" > MY cute pet ❤️ </h3>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{Profitah}?pet-id=1" width="1000" height="120"/>
 </a>
