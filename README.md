@@ -1,8 +1,7 @@
 <div align="center">     
   
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=낭만코딩&fontSize=70&animation=scaleIn)
-낭만<br>코딩
-
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=낭만%20코더&fontSize=70&animation=scaleIn)<br><br><br>
+  
 </div>
 <br>
 
@@ -15,10 +14,11 @@
 </div>
 <br>
 
-<h3 align="center">📚 Education 📚</h3>
 
+<h3 align="center">📚 Education 📚</h3>
 <div align="center">
-  <p> 2025.02(졸업예정): 성공회대 소프트웨어공학(주) 사회복지학(부)</p>
+  <p>2020 ~ 2021 : 국립순천대학교 공공인재학부</p>
+  <p>2022 ~ ing : 성공회대 소프트웨어공학(주) 사회복지학(부)</p>
 </div>
 <br>
 
