@@ -1,6 +1,6 @@
 <div align="center">     
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=감성코딩&fontSize=70&animation=scaleIn)<br><br><br>
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=낭만코딩&fontSize=70&animation=scaleIn)<br><br><br>
   
 </div>
 <br>
