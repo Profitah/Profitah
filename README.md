@@ -2,7 +2,6 @@
   
   ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br><br><br>
   
-  
 </div>
 <br>
 
@@ -15,21 +14,22 @@
 </div>
 <br>
 
-<h3 align="center">📞 Contact 📞</h3>
+<h3 align="center">📚 Education 📚</h3>
 
 <div align="center">
-    <a href="https://www.instagram.com/jaddeit__/">
-        <img src="https://img.shields.io/badge/Instagram-030303?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:skhu202012164@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
-    </a>
+  <p>2020 ~ 2021 : 국립순천대학교 공공인재학부 재학&자퇴</p>
+  <p>2022 ~ ing : 성공회대 소프트웨어공학(주) 사회복지학(부)</p>
 </div>
 <br>
 
-<h3 align="center"> ❤️ My Friends ❤️</h3>
+<h3 align="center">📞 Contact 📞</h3>
+
 <div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/{Profitah}" alt="My cute pet"/>
+  <a href="https://www.instagram.com/jaddeit__/">
+    <img src="https://img.shields.io/badge/Instagram-030303?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:skhu202012164@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
+<br>
