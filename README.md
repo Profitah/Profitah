@@ -1,7 +1,9 @@
 <div align="center">     
   
-  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br><br><br>
+  ![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Yoonah's%20GitHub&fontSize=70&animation=scaleIn)<br><br><br>  
   
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newnewby_yuna)](https://solved.ac/newnewby_yuna/)
+    
 </div>
 <br>
 
@@ -30,5 +32,13 @@
   <a href="mailto:skhu202012164@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
+      <a href="https://www.instagram.com/tomorrow_it.book.editor/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
 </div>
+<br>
+
+
+
+
 <br>
