@@ -30,14 +30,6 @@
 </div>
 <br>
 
-<h3 align="center">🎓 Education 🎓</h3>
-
-<div align="center">
-  <p>2025. 02 졸업예정 </p>
-  <p>소프트웨어공학(주전공) 사회복지학(부전공)</p>
-</div>
-<br>
-
 <h3 align="center">📞 Contact Me 📞</h3>
 
 <div align="center">
